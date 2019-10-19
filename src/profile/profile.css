@@ -1,0 +1,22 @@
+.container {
+    background: #b9eee1;
+    height: 450px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 1px solid rgb(207, 115, 115);
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    background-color: #ddf0f3;
+    margin: 10px;
+    height: 160px;
+    width:  120px;
+    padding: 5px;
+    font-size: 20px;
+  }

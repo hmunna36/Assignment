@@ -1,0 +1,30 @@
+.main-section {
+    width: 70%;
+    margin: 0 auto 10px;
+    background: #e5f5f1; 
+    border-radius: 15px;
+}
+.text-style {
+    color: rgb(10, 80, 25);
+    text-align: center;
+}
+
+.button-style {
+    color: rgb(14, 9, 9);
+    float: right;
+    border-radius: 10px;
+    background-color: rgb(184, 176, 176);
+    height: 30px;
+    width: 30%;
+    border: 2px solid rgb(13, 19, 17);
+}
+
+.button-style2 {
+    color: black;
+    float: left;
+    border-radius: 10px;
+    background-color: rgb(173, 175, 194);
+    height: 30px;
+    width: 30%;
+    border: 2px solid rgb(13, 19, 17);
+}
